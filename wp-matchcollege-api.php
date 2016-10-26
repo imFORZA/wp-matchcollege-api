@@ -2,8 +2,19 @@
 /**
  * WP Match College API (http://www.matchcollege.com/college-data-api)
  *
- * @package WP-Enerscore-API
+ * @package WP-MatchCollege-API
  */
+
+/*
+Plugin Name: WP Match College API
+Plugin URI: https://github.com/wp-api-libraries/wp-matchcollege-api
+Description: Perform API requests to matchcollege.com in WordPress.
+Author: imFORZA
+Version: 1.0.0
+Author URI: https://www.imforza.com
+GitHub Plugin URI: https://github.com/wp-api-libraries/wp-matchcollege-api
+GitHub Branch: master
+*/
 
 /* Exit if accessed directly */
 if ( ! defined( 'ABSPATH' ) ) { exit; }
